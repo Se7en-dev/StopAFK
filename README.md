@@ -1,6 +1,5 @@
 # StopAFK   -   A Pocketmine-MP plugin
 ![Licence](https://img.shields.io/github/license/Se7en-dev/StopAFK?color=blue)
-![Downloads](https://img.shields.io/github/downloads/Se7en-dev/StopAFK/total)
 <div style="text-align:center"><img src="resources/stopafk.png" alt="logo" width="256"/>
 
 StopAFK is a simple PMMP plugin that automatically kicks AFK Players after a configurable amount of time.
@@ -34,4 +33,4 @@ This permission is given to OP's by default, so they won't be affected by the pl
 ## License
 
 This plugin is licensed under **GNU General Public License v3.0**
-#### Thank you for downloading my plugin ! All credits of the original code goes to DXM_Hip. If you have any questions add me on Discord : Se7en#9999
+#### Thank you for downloading my plugin ! All credits of the original code goes to DXM_Hip. If you have any questions add me on Discord : Se7en#0264

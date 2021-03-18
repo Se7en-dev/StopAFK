@@ -8,12 +8,13 @@
 #
 #         Original plugin by DXM_Hip. Updated to API 3 by Se7en711
 
-name: Se7en-StopAFK
+name: StopAFK
 main: Se7en711\StopAFK\Main
 version: 2.2
 api: 3.0.0
-author: Se7en711
+author: DXM_Hip, Se7en711
 description: Automatically kick players who are AFK. Original plugin by DXM_Hip. Updated to API 3 by Se7en711
+website: https://github.com/Se7en-dev/StopAFK
 
 permissions:
     stopafk.bypass:
